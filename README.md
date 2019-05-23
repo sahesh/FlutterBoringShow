@@ -1,6 +1,5 @@
-# boring_show
+# Flutter Boring Show - Ep2
 
-A new Flutter project.
 
 ## Getting Started
 
